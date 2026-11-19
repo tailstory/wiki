@@ -34,7 +34,7 @@
     "@tailwindcss/vite": "4.3.5",
     "pagefind": "1.6.0",
     "tailwindcss": "4.3.5",
-    "typescript": "5.9.3",
+    "typescript": "7.0.2",
     "wrangler": "4.160.1"
   },
   "engines": {
