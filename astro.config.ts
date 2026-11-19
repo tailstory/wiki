@@ -19,6 +19,7 @@ const nimbusConfig = defineNimbusConfig({
       { label: "FedEx", autogenerate: { directory: "fedex" } },
       { label: "ShopWorks", autogenerate: { directory: "shopworks" } },
       { label: "UPS", autogenerate: { directory: "ups" } },
+      "license",
     ],
   },
 });
